@@ -28,7 +28,7 @@ public:
 	int align;
 	
 	ofx3DFont face;
-	ofx3DFont faceNavi3d;
+    ofx3DFont faceNavi3d;
 	ofLight light;
 
 };

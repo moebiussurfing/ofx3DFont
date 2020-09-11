@@ -1,5 +1,6 @@
 #pragma once
 
+#include "ofMain.h"
 #include "ofxTrueTypeFontUL2.h"
 #include "ofxMeshHelper.h"
 

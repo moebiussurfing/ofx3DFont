@@ -213,3 +213,21 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+3dFontExample/3dFontExample.xcodeproj/project.pbxproj
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcshareddata/3dFontExample.xccheckout
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcshareddata/emptyExample.xccheckout
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcuserdata/kentaro.xcuserdatad/UserInterfaceState.xcuserstate
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcuserdata/kentaro.xcuserdatad/WorkspaceSettings.xcsettings
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcuserdata/kentaro.xcuserdatad/xcdebugger/Expressions.xcexplist
+3dFontExample/3dFontExample.xcodeproj/project.xcworkspace/xcuserdata/manumolina.xcuserdatad/UserInterfaceState.xcuserstate
+3dFontExample/3dFontExample.xcodeproj/xcshareddata/xcschemes/3dFontExample Debug.xcscheme
+3dFontExample/3dFontExample.xcodeproj/xcshareddata/xcschemes/3dFontExample Release.xcscheme
+3dFontExample/3dFontExample.xcodeproj/xcshareddata/xcschemes/emptyExample Debug.xcscheme
+3dFontExample/3dFontExample.xcodeproj/xcshareddata/xcschemes/emptyExample Release.xcscheme
+3dFontExample/3dFontExample.xcodeproj/xcuserdata/kentaro.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+3dFontExample/3dFontExample.xcodeproj/xcuserdata/kentaro.xcuserdatad/xcschemes/xcschememanagement.plist
+3dFontExample/openFrameworks-Info.plist
+3dFontExample/Project.xcconfig

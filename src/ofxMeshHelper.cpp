@@ -55,7 +55,13 @@ void ofxMeshHelper::triangulate(ofPath &path,ofMesh& mesh,vector<ofPolyline>&out
 						t4=(t+1)==size?0:t+1;
 						v1.normalize().rotate(isVertNorm(outline[i2][t2],outline[i2][t3],outline[i][t4])?90:-90);
 						while(isVertOnLine(outline[i][t],outline[i2][t2],outline[i2][t3])){
-							outline[i][t].set(outline[i][t]+v1*fv);
+
+//                            outline[i][t].set(outline[i][t]+v1*fv);
+
+                            auto v = outline[i][t];
+                            auto vv = v1*fv;
+                            outline[i][t] = ofVec3f(vv) * ofVec3f(v);
+
 							fv*=2;
 						}
 					}
